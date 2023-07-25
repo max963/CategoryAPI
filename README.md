@@ -1,3 +1,3 @@
 # CategoryAPI
 
-dotnet run
+dotnet run --project CategoryAPI
