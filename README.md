@@ -1,0 +1,3 @@
+# CategoryAPI
+
+dotnet run
